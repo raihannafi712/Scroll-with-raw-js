@@ -1,0 +1,1710 @@
+/* xs start */
+@media (min-width:0px) and (max-width:575px){
+
+    /* nav part start  */
+    .menu_bg .navbar-collapse{
+       background-color: gray;
+   }
+   .menu_bg ul{
+       text-align: center;
+   }
+   .menu_bg ul li{
+       padding: 10px 0;
+   }
+   .con{
+       text-align: center;
+   }
+   .navbar-toggler{
+       border: 1px solid #fff;
+   }
+   .navbar-toggler i{
+       color: white !important ;
+   }
+   .navbar-toggler:focus {
+       text-decoration: none;
+       outline: 0;
+       box-shadow: 0 0 0 transparent !important;
+   }
+   /* nav part end  */
+   
+    /* banner start */
+    .banner-text h1 {
+       width: 100%;
+       font-size: 25px;
+       line-height: 30px;
+   }
+   .banner-text p {
+       font-size: 13px;
+       width: 100%;
+       line-height: 21px;
+   }
+   .banner-text input {
+       width: 198px;
+       height: 65px;
+       font-size: 11px;
+       padding: 20px 34px;
+   }
+   .banner-text-btn {
+       width: 128px;
+       height: 73px;
+       margin-top: -10px;
+       padding: 4px 0;
+       font-size: 12px;
+   }
+   #banner {
+       padding: 150px 0 0px 0;
+   }
+   .banner_pic {
+       bottom: -32px;
+   }
+   .banner-logo-pic{
+       padding: 10px 0;
+   }
+   /* banner end */
+
+   /* provide start */
+   #provide {
+       margin-top: 40px;
+   }
+   .provide-text h3 {
+       width: 100%;
+       font-size: 25px;
+       line-height: 30px;
+       padding-bottom: 21px;
+   }
+   .provide-left{
+       padding-bottom: 100px;
+   }
+   .provide-left p {
+       font-size: 13px;
+       width: 100%;
+       line-height: 21px;
+       padding-bottom: 25px;
+       text-align: center;
+   }
+   .provide-right {
+       padding-left: 44px;
+   }
+   .provide-card1{
+       margin: 10px 30px 0px 10px;
+   }
+   .provide-card2{
+       margin: 10px 30px 0px 10px;
+   }
+   .card-right h3 {
+       font-size: 18px;
+       font-weight: 600;
+       line-height: 20px;
+   }
+   .card-right p {
+
+       font-size: 12px;
+       font-weight: 400;
+       line-height: 17px;
+   }
+   /* provide end */
+
+   /* traffic start */
+   #traffic {
+       padding: 110px 0;
+   }
+   .subhead{
+       text-align: center;
+       font-size: 24px;
+       padding-bottom: 0px;
+   }
+   .head{
+       font-size: 34px;
+       font-weight: 600;
+       line-height: 68px;
+       text-transform: capitalize;
+       padding-bottom: 2px;
+       text-align: center;
+   }
+   .body{
+       text-align: center;
+       line-height: 26px;
+       font-size: 17px;
+       padding-bottom: 50px;
+   }
+   .traffic-text{
+       text-align: center;
+   }
+   /* traffic end */
+
+   /* process start */
+   #process {
+       padding-bottom: 0px;
+   }
+   .process-text h3 {
+       font-size: 31px;
+       font-weight: 600;
+       line-height: 45px;
+       padding-bottom: 21px;
+   }
+   .process-text p{
+       line-height: 15px;
+   }
+   .process-card1 {
+       padding: 9px 5px;
+       margin-bottom: 50px;
+   }
+   .process-card2 {
+       padding: 10px 5px;
+       margin-bottom: 20px;
+   }
+   .process-card2 p {
+       font-size: 20px;
+   }
+   .process-card1 p {
+       font-size: 20px;
+       font-weight: 500;
+       line-height: 29px;
+       padding-top: 30px;
+   }
+   .process-btn {
+       padding-top: 10px;
+       text-align: center;
+   }
+   /* process end */
+
+   /* work start */
+   #work {
+       padding: 0px 0 100px 0;
+   }
+   .work_btn a {
+       font-size: 18px;
+       font-weight: 600;
+       padding: 7px 9px;
+   }
+   .subhead-p{
+       text-align: center;
+   }
+   .work-img{
+       width: 50%;
+       display: block; 
+       margin-left: auto; 
+       margin-right: auto; 
+   }
+   /* work end */
+
+   /* pricing start*/
+   #pricing {
+       padding: 0 0 100px 0;
+   }
+   .container{
+       overflow: auto;
+   }
+   .subhead {
+       text-align: center;
+       font-size: 18px;
+       padding-bottom: 0px;
+   }
+   .head {
+       font-size: 20px;
+       font-weight: 600;
+       line-height: 55px;
+       text-transform: capitalize;
+       padding-bottom: 2px;
+       text-align: center;
+   }
+   .pricing-head p {
+       color: #29313D !important;
+       font-family: "Poppins", sans-serif;
+       font-size: 14px;
+       font-weight: 600;
+       line-height: 30px;
+       text-transform: capitalize;
+       text-align: center;
+   }
+   .pricing-head h4 {
+       color: black !important;
+       font-family: "Poppins", sans-serif;
+       font-size: 13px;
+       font-weight: 600;
+       line-height: 26px;
+       text-transform: capitalize;
+       text-align: center;
+       margin-top: 24px;
+   }
+   .pricing-head span {
+       font-size: 12px;
+       font-weight: 600;
+       line-height: 0px;
+   }
+   .t-data .pricing-btn1 a {
+       font-size: 18px;
+       font-weight: 600;
+       line-height: 20px;
+       padding: 10px 12px;
+   }
+   .t-data .pricing-btn2 a {
+       font-size: 20px;
+       font-weight: 600;
+       line-height: 20px;
+       padding: 20px 5px;
+   }
+   .t-data .pricing-btn3 a {
+       font-size: 16px;
+       font-weight: 600;
+       padding: 20px 0px;
+   }
+   .free-head h3 {
+       font-size: 28px;
+       font-weight: 600;
+       line-height: 40px;
+   }
+   .free-head p {
+       font-size: 12px;
+       font-weight: 300;
+       line-height: 0px;
+   }
+   .free-head input {
+       font-size: 14px;
+       font-weight: 400;
+       line-height: 20px;
+       padding: 28px 0;
+       padding-right: 33px;
+       padding-left: 18px;
+   }
+   .free-text-btn {
+       font-size: 15px;
+       font-weight: 600;
+       line-height: 18px;
+       padding: 31px 31px;
+   }
+   /* pricing end */
+
+   /* free start */
+   .free-head h3 {
+       font-size: 22px;
+       font-weight: 600;
+       line-height: 30px;
+   }
+   .free-head p {
+       font-size: 10px;
+       font-weight: 300;
+       line-height: 0px;
+   }
+   .free-head input {
+       font-size: 12px;
+       font-weight: 400;
+       line-height: 20px;
+       padding: 28px 0;
+       padding-right: 4px;
+       padding-left: 18px;
+   }
+   .free-text-btn {
+       font-size: 12px;
+       font-weight: 600;
+       line-height: 17px;
+       padding: 29px 31px;
+   }
+   /* free end */
+
+   /* footer start */
+   .footer1 img{
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+   }
+   .footer1 h6 {
+       color: black !important;
+       font-family: "Nunito Sans", sans-serif;
+       font-size: 18px;
+       font-weight: 400;
+       line-height: 32px;
+       padding-top: 44px;
+       text-align: center;
+   }
+   .footer1{
+       padding-bottom: 50px;
+   }
+   .footer-last p , span{
+       font-size: 10px;
+   }
+   /* footer end */
+}
+/* xs end */
+
+/* sm start */
+
+@media (min-width:576px) and (max-width:767.98px){
+
+   /* nav part start  */
+   .menu_bg .navbar-collapse{
+       background-color: gray;
+   }
+   .menu_bg ul{
+       text-align: center;
+   }
+   .menu_bg ul li{
+       padding: 10px 0;
+   }
+   .con{
+       text-align: center;
+   }
+   .navbar-toggler{
+       border: 1px solid #fff;
+   }
+   .navbar-toggler i{
+       color: white !important ;
+   }
+   .navbar-toggler:focus {
+       text-decoration: none;
+       outline: 0;
+       box-shadow: 0 0 0 transparent !important;
+   }
+   /* nav part end  */
+
+   /* banner start */
+   .banner-text h1 {
+       width: 100%;
+       font-size: 30px;
+       line-height: 40px;
+   }
+   .banner-text p {
+       font-size: 16px;
+       width: 100%;
+       line-height: 25px;
+   }
+   .banner-text input {
+       width: 328px;
+       height: 65px;
+       font-size: 14px;
+       padding: 41px 34px;
+   }
+   .banner-text-btn {
+       width: 167px;
+       height: 92px;
+       margin-top: -10px;
+       padding: 31px 0;
+       font-size: 15px;
+   }
+   #banner {
+       padding: 150px 0 0px 0;
+   }
+   .banner_pic {
+       bottom: -32px;
+   }
+   .banner-logo-pic{
+       padding: 10px 0;
+   }
+   /* banner end */
+
+   /* provide start */
+   #provide {
+       margin-top: 40px;
+   }
+   .provide-text h3 {
+       font-size: 31px;
+       font-weight: 600;
+       line-height: 45px;
+       padding-bottom: 21px;
+   }
+   .provide-left{
+       padding-bottom: 100px;
+   }
+   .provide-left p {
+       font-size: 17px;
+       font-weight: 400;
+       line-height: 30px;
+       padding-bottom: 25px;
+       text-align: center;
+   }
+   .provide-right {
+       padding-left: 44px;
+   }
+   .provide-card1{
+       margin: 10px 30px 0px 10px;
+   }
+   .provide-card2{
+       margin: 10px 30px 0px 10px;
+   }
+   /* provide end */
+
+   /* traffic start */
+   #traffic {
+       padding: 130px 0;
+   }
+   .subhead{
+       text-align: center;
+       font-size: 24px;
+       padding-bottom: 0px;
+   }
+   .head{
+       font-size: 34px;
+       font-weight: 600;
+       line-height: 68px;
+       text-transform: capitalize;
+       padding-bottom: 2px;
+       text-align: center;
+   }
+   .body{
+       text-align: center;
+       line-height: 26px;
+       font-size: 17px;
+       padding-bottom: 50px;
+   }
+   .traffic-text{
+       text-align: center;
+   }
+   /* traffic end */
+   /* process start */
+   #process {
+       padding-bottom: 0px;
+   }
+   .process-text h3 {
+       font-size: 31px;
+       font-weight: 600;
+       line-height: 45px;
+       padding-bottom: 21px;
+   }
+   .process-text p{
+       line-height: 15px;
+   }
+   .process-card1 {
+       padding: 9px 5px;
+       margin-bottom: 50px;
+   }
+   .process-card2 {
+       padding: 10px 5px;
+       margin-bottom: 20px;
+   }
+   .process-card2 p {
+       font-size: 20px;
+   }
+   .process-card1 p {
+       font-size: 20px;
+       font-weight: 500;
+       line-height: 29px;
+       padding-top: 30px;
+   }
+   .process-btn {
+       padding-top: 10px;
+       text-align: center;
+   }
+   /* process end */
+
+   /* work start */
+   #work {
+       padding: 0px 0 100px 0;
+   }
+   .work_btn a {
+       font-size: 18px;
+       font-weight: 600;
+       padding: 7px 9px;
+   }
+   .subhead-p{
+       text-align: center;
+   }
+   .work-img{
+       width: 50%;
+       display: block; 
+       margin-left: auto; 
+       margin-right: auto; 
+   }
+   /* work end */
+
+   /* pricing start*/
+   #pricing {
+       padding: 0 0 100px 0;
+   }
+   .container{
+       overflow: auto;
+   }
+   .pricing-head h4 {
+       color: black !important;
+       font-family: "Poppins", sans-serif;
+       font-size: 18px;
+       font-weight: 600;
+       line-height: 44px;
+       text-transform: capitalize;
+       text-align: center;
+       margin-top: 24px;
+   }
+   .pricing-head span {
+       font-size: 14px;
+       font-weight: 600;
+       line-height: 0px;
+   }
+   .t-data .pricing-btn1 a {
+       color: white !important;
+       font-family: "Nunito Sans", sans-serif;
+       font-size: 18px;
+       font-weight: 600;
+       line-height: 20px;
+       text-transform: capitalize;
+       padding: 10px 44px;
+       background-color: black;
+   }
+   .free-head h3 {
+       font-size: 28px;
+       font-weight: 600;
+       line-height: 40px;
+   }
+   .free-head p {
+       font-size: 12px;
+       font-weight: 300;
+       line-height: 0px;
+   }
+   .free-head input {
+       font-size: 14px;
+       font-weight: 400;
+       line-height: 20px;
+       padding: 28px 0;
+       padding-right: 33px;
+       padding-left: 18px;
+   }
+   .free-text-btn {
+       font-size: 15px;
+       font-weight: 600;
+       line-height: 18px;
+       padding: 31px 31px;
+   }
+   /* pricing end */
+
+   /* footer start */
+   .footer1 img{
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+   }
+   .footer1 h6 {
+       color: black !important;
+       font-family: "Nunito Sans", sans-serif;
+       font-size: 18px;
+       font-weight: 400;
+       line-height: 32px;
+       padding-top: 44px;
+       text-align: center;
+   }
+   .footer1{
+       padding-bottom: 50px;
+   }
+   .footer-last p , span{
+       font-size: 10px;
+   }
+   /* footer end */
+}
+
+/* sm end */
+
+/* md start */
+
+@media (min-width:768px) and (max-width:991px){
+   
+   /* nav part start  */
+   .menu_bg .navbar-collapse{
+       background-color: gray;
+   }
+   .menu_bg ul{
+       text-align: center;
+   }
+   .menu_bg ul li{
+       padding: 10px 0;
+   }
+   .con{
+       text-align: center;
+   }
+   .navbar-toggler{
+       border: 1px solid #fff;
+   }
+   .navbar-toggler i{
+       color: white !important ;
+   }
+   .navbar-toggler:focus {
+       text-decoration: none;
+       outline: 0;
+       box-shadow: 0 0 0 transparent !important;
+   }
+   
+   /* nav part end  */
+
+    /* banner start */
+    .banner-text h1 {
+       width: 100%;
+       font-size: 30px;
+       line-height: 40px;
+   }
+   .banner-text p {
+       font-size: 16px;
+       width: 100%;
+       line-height: 25px;
+   }
+   .banner-text input {
+       width: 328px;
+       height: 65px;
+       font-size: 14px;
+       padding: 41px 34px;
+   }
+   .banner-text-btn {
+       width: 167px;
+       height: 92px;
+       margin-top: -10px;
+       padding: 31px 0;
+       font-size: 15px;
+   }
+   #banner {
+       padding: 150px 0 0px 0;
+   }
+   .banner_pic {
+       bottom: -32px;
+   }
+   .banner-logo-pic{
+       padding: 10px 0;
+   }
+   /* banner end */
+
+   /* provide start */
+   #provide {
+       margin-top: 40px;
+   }
+   .provide-text h3 {
+       font-size: 31px;
+       font-weight: 600;
+       line-height: 45px;
+       padding-bottom: 21px;
+   }
+   .provide-left{
+       padding-bottom: 100px;
+   }
+   .provide-left p {
+       font-size: 17px;
+       font-weight: 400;
+       line-height: 30px;
+       padding-bottom: 25px;
+       text-align: center;
+   }
+   .provide-right {
+       padding-left: 44px;
+   }
+   .provide-card1{
+       margin: 10px 30px 0px 10px;
+   }
+   .provide-card2{
+       margin: 10px 30px 0px 10px;
+   }
+   /* provide end */
+
+   /* traffic start */
+   #traffic {
+       padding: 130px 0;
+   }
+   .subhead{
+       text-align: center;
+       font-size: 24px;
+       padding-bottom: 0px;
+   }
+   .head{
+       font-size: 34px;
+       font-weight: 600;
+       line-height: 68px;
+       text-transform: capitalize;
+       padding-bottom: 2px;
+       text-align: center;
+   }
+   .body{
+       text-align: center;
+       line-height: 26px;
+       font-size: 17px;
+       padding-bottom: 50px;
+   }
+   .traffic-text{
+       text-align: center;
+   }
+   /* traffic end */
+
+   /* process start */
+   #process {
+       padding-bottom: 0px;
+   }
+   .process-text h3 {
+       font-size: 31px;
+       font-weight: 600;
+       line-height: 45px;
+       padding-bottom: 21px;
+   }
+   .process-text p{
+       line-height: 15px;
+   }
+   .process-card1 {
+       padding: 9px 5px;
+       margin-bottom: 50px;
+   }
+   .process-card2 {
+       padding: 10px 5px;
+       margin-bottom: 20px;
+   }
+   .process-card2 p {
+       font-size: 20px;
+   }
+   .process-card1 p {
+       font-size: 20px;
+       font-weight: 500;
+       line-height: 29px;
+       padding-top: 30px;
+   }
+   .process-btn {
+       padding-top: 10px;
+       text-align: center;
+   }
+   /* process end */
+
+    /* work start */
+    #work {
+       padding: 0px 0 100px 0;
+   }
+   .work_btn a {
+       font-size: 18px;
+       font-weight: 600;
+       padding: 7px 9px;
+   }
+   .subhead-p{
+       text-align: center;
+   }
+   .work-img{
+       width: 50%;
+       display: block; 
+       margin-left: auto; 
+       margin-right: auto; 
+   }
+   /* work end */
+
+   /* pricing start*/
+   #pricing {
+       padding: 0 0 100px 0;
+   }
+   .container{
+       overflow: auto;
+   }
+   .pricing-head h4 {
+       color: black !important;
+       font-family: "Poppins", sans-serif;
+       font-size: 18px;
+       font-weight: 600;
+       line-height: 44px;
+       text-transform: capitalize;
+       text-align: center;
+       margin-top: 24px;
+   }
+   .pricing-head span {
+       font-size: 14px;
+       font-weight: 600;
+       line-height: 0px;
+   }
+   .t-data .pricing-btn1 a {
+       color: white !important;
+       font-family: "Nunito Sans", sans-serif;
+       font-size: 18px;
+       font-weight: 600;
+       line-height: 20px;
+       text-transform: capitalize;
+       padding: 10px 44px;
+       background-color: black;
+   }
+   .free-head h3 {
+       font-size: 28px;
+       font-weight: 600;
+       line-height: 40px;
+   }
+   .free-head p {
+       font-size: 12px;
+       font-weight: 300;
+       line-height: 0px;
+   }
+   .free-head input {
+       font-size: 14px;
+       font-weight: 400;
+       line-height: 20px;
+       padding: 28px 0;
+       padding-right: 33px;
+       padding-left: 18px;
+   }
+   .free-text-btn {
+       font-size: 15px;
+       font-weight: 600;
+       line-height: 18px;
+       padding: 31px 31px;
+   }
+   /* pricing end */
+
+   /* footer start */
+   .footer1 img{
+       display: block; 
+       margin-left: auto; 
+       margin-right: auto; 
+      }
+      .footer1 h6 {
+          color: black !important;
+          font-family: "Nunito Sans", sans-serif;
+          font-size: 18px;
+          font-weight: 400;
+          line-height: 32px;
+          padding-top: 44px;
+          text-align: center;
+      }
+      .footer1{
+          padding-bottom: 50px;
+      }
+      .footer-last p , span{
+          font-size: 10px;
+      }
+      /* footer end */
+}
+/* md end */
+
+/* lg start */
+
+@media (min-width:992px) and (max-width:1199px){
+   
+   /* nav part start  */
+   .menu_bg ul{
+       text-align: center;
+   }
+   .menu_bg ul li{
+       padding: 10px 0;
+   }
+   .con{
+       text-align: center;
+   }
+   .navbar-toggler{
+       border: 1px solid #fff;
+   }
+   .navbar-toggler i{
+       color: white !important ;
+   }
+   .navbar-toggler:focus {
+       text-decoration: none;
+       outline: 0;
+       box-shadow: 0 0 0 transparent !important;
+   }
+   .nav-btn a {
+       font-size: 16px;
+       font-weight: 600;
+       line-height: 18px;
+       padding: 12px 13px;
+       background-color: transparent;
+       border: 2px solid white;
+       text-align: center;
+   }
+   
+   /* nav part end  */
+
+    /* banner start */
+    .banner-text h1 {
+       width: 100%;
+       font-size: 30px;
+       line-height: 40px;
+   }
+   .banner-text p {
+       font-size: 16px;
+       width: 100%;
+       line-height: 25px;
+   }
+   .banner-text input {
+       width: 328px;
+       height: 65px;
+       font-size: 14px;
+       padding: 41px 34px;
+   }
+   .banner-text-btn {
+       width: 167px;
+       height: 92px;
+       margin-top: -10px;
+       padding: 31px 0;
+       font-size: 15px;
+   }
+   #banner {
+       padding: 150px 0 0px 0;
+   }
+   .banner_pic {
+       bottom: -32px;
+   }
+   .banner-logo-pic{
+       padding: 10px 14px;
+   }
+   /* banner end */
+
+   /* provide start */
+   #provide {
+       margin-top: 40px;
+   }
+   .provide-text h3 {
+       font-size: 31px;
+       font-weight: 600;
+       line-height: 45px;
+       padding-bottom: 21px;
+   }
+   .provide-left{
+       padding-bottom: 100px;
+   }
+   .provide-left p {
+       font-size: 17px;
+       font-weight: 400;
+       line-height: 30px;
+       padding-bottom: 148px;
+       text-align: center;
+   }
+   .provide-right {
+       padding-left: 44px;
+   }
+   .provide-card1{
+       margin: 10px 30px 0px 10px;
+   }
+   .provide-card2{
+       margin: 10px 30px 0px 10px;
+   }
+   .card-right p {
+       font-size: 14px;
+       font-weight: 400;
+       line-height: 18px;
+   }
+   .card-right h3 {
+       font-size: 22px;
+       font-weight: 600;
+       line-height: 26px;
+   }
+   /* provide end */
+
+   /* traffic start */
+   #traffic {
+       padding: 130px 0;
+   }
+   .subhead{
+       text-align: center;
+       font-size: 24px;
+       padding-bottom: 0px;
+   }
+   .head{
+       font-size: 34px;
+       font-weight: 600;
+       line-height: 68px;
+       text-transform: capitalize;
+       padding-bottom: 2px;
+       text-align: center;
+   }
+   .body{
+       text-align: center;
+       line-height: 26px;
+       font-size: 17px;
+       padding-bottom: 50px;
+   }
+   .traffic-text{
+       text-align: center;
+   }
+   /* traffic end */
+
+   /* process start */
+   #process {
+       padding-bottom: 0px;
+   }
+   .process-text h3 {
+       font-size: 31px;
+       font-weight: 600;
+       line-height: 45px;
+       padding-bottom: 21px;
+   }
+   .process-text p{
+       line-height: 15px;
+   }
+   .process-card1 {
+       padding: 9px 5px;
+       margin-bottom: 50px;
+   }
+   .process-card2 {
+       padding: 10px 5px;
+       margin-bottom: 20px;
+   }
+   .process-card2 p {
+       font-size: 20px;
+   }
+   .process-card1 p {
+       font-size: 20px;
+       font-weight: 500;
+       line-height: 29px;
+       padding-top: 30px;
+   }
+   .process-btn {
+       padding-top: 10px;
+       text-align: center;
+   }
+   .process-card3 p {
+       font-size: 20px;
+       font-weight: 500;
+       line-height: 18px;
+   }
+   /* process end */
+
+    /* work start */
+    #work {
+       padding: 0px 0 100px 0;
+   }
+   .work_btn a {
+       font-size: 15px;
+       font-weight: 600;
+       padding: 42px 4px;
+   }
+   .subhead-p{
+       text-align: center;
+   }
+   .work-img{
+       width: 50%;
+       display: block; 
+       margin-left: auto; 
+       margin-right: auto; 
+   }
+   /* work end */
+
+   /* pricing start*/
+   #pricing {
+       padding: 0 0 100px 0;
+   }
+   .container{
+       overflow: auto;
+   }
+   .pricing-head h4 {
+       color: black !important;
+       font-family: "Poppins", sans-serif;
+       font-size: 18px;
+       font-weight: 600;
+       line-height: 44px;
+       text-transform: capitalize;
+       text-align: center;
+       margin-top: 24px;
+   }
+   .pricing-head span {
+       font-size: 14px;
+       font-weight: 600;
+       line-height: 0px;
+   }
+   .t-data .pricing-btn1 a {
+       color: white !important;
+       font-family: "Nunito Sans", sans-serif;
+       font-size: 18px;
+       font-weight: 600;
+       line-height: 20px;
+       text-transform: capitalize;
+       padding: 10px 44px;
+       background-color: black;
+   }
+   .free-head h3 {
+       font-size: 28px;
+       font-weight: 600;
+       line-height: 40px;
+   }
+   .free-head p {
+       font-size: 12px;
+       font-weight: 300;
+       line-height: 0px;
+   }
+   .free-head input {
+       font-size: 14px;
+       font-weight: 400;
+       line-height: 20px;
+       padding: 28px 0;
+       padding-right: 33px;
+       padding-left: 18px;
+   }
+   .free-text-btn {
+       font-size: 15px;
+       font-weight: 600;
+       line-height: 18px;
+       padding: 31px 31px;
+   }
+   /* pricing end */
+
+   /* footer start */
+   .footer1 img{
+       display: block; 
+       margin-left: auto; 
+       margin-right: auto; 
+      }
+      .footer1 h6 {
+          color: black !important;
+          font-family: "Nunito Sans", sans-serif;
+          font-size: 18px;
+          font-weight: 400;
+          line-height: 32px;
+          padding-top: 44px;
+          text-align: center;
+      }
+      .footer1{
+          padding-bottom: 50px;
+      }
+      .footer-last p , span{
+          font-size: 10px;
+      }
+      /* footer end */
+}
+/* lg end */
+
+/* xl start */
+
+@media (min-width:1200px) and (max-width:1399px){
+
+       /* nav part start  */
+       .menu_bg ul{
+           text-align: center;
+       }
+       .menu_bg ul li{
+           padding: 10px 0;
+       }
+       .con{
+           text-align: center;
+       }
+       .navbar-toggler{
+           border: 1px solid #fff;
+       }
+       .navbar-toggler i{
+           color: white !important ;
+       }
+       .navbar-toggler:focus {
+           text-decoration: none;
+           outline: 0;
+           box-shadow: 0 0 0 transparent !important;
+       }
+       .nav-btn a {
+           font-size: 16px;
+           font-weight: 600;
+           line-height: 18px;
+           padding: 12px 13px;
+           background-color: transparent;
+           border: 2px solid white;
+           text-align: center;
+       }
+       
+       /* nav part end  */
+   
+        /* banner start */
+        .banner-text h1 {
+           width: 100%;
+           font-size: 30px;
+           line-height: 40px;
+       }
+       .banner-text p {
+           font-size: 16px;
+           width: 100%;
+           line-height: 25px;
+       }
+       .banner-text input {
+           width: 328px;
+           height: 65px;
+           font-size: 14px;
+           padding: 41px 34px;
+       }
+       .banner-text-btn {
+           width: 167px;
+           height: 92px;
+           margin-top: -10px;
+           padding: 31px 0;
+           font-size: 15px;
+       }
+       #banner {
+           padding: 150px 0 0px 0;
+       }
+       .banner_pic {
+           bottom: -32px;
+       }
+       .banner-logo-pic{
+           padding: 10px 14px;
+       }
+       /* banner end */
+   
+       /* provide start */
+       #provide {
+           margin-top: 40px;
+       }
+       .provide-text h3 {
+           font-size: 31px;
+           font-weight: 600;
+           line-height: 45px;
+           padding-bottom: 21px;
+       }
+       .provide-left{
+           padding-bottom: 100px;
+       }
+       .provide-left p {
+           font-size: 17px;
+           font-weight: 400;
+           line-height: 30px;
+           padding-bottom: 148px;
+           text-align: center;
+       }
+       .provide-right {
+           padding-left: 44px;
+       }
+       .provide-card1{
+           margin: 10px 30px 0px 10px;
+       }
+       .provide-card2{
+           margin: 10px 30px 0px 10px;
+       }
+       .card-right p {
+           font-size: 14px;
+           font-weight: 400;
+           line-height: 18px;
+       }
+       .card-right h3 {
+           font-size: 22px;
+           font-weight: 600;
+           line-height: 26px;
+       }
+       /* provide end */
+   
+       /* traffic start */
+       #traffic {
+           padding: 130px 0;
+       }
+       .subhead{
+           text-align: center;
+           font-size: 24px;
+           padding-bottom: 0px;
+       }
+       .head{
+           font-size: 34px;
+           font-weight: 600;
+           line-height: 68px;
+           text-transform: capitalize;
+           padding-bottom: 2px;
+           text-align: center;
+       }
+       .body{
+           text-align: center;
+           line-height: 26px;
+           font-size: 17px;
+           padding-bottom: 50px;
+       }
+       .traffic-text{
+           text-align: center;
+       }
+       /* traffic end */
+   
+       /* process start */
+       #process {
+           padding-bottom: 0px;
+       }
+       .process-text h3 {
+           font-size: 31px;
+           font-weight: 600;
+           line-height: 45px;
+           padding-bottom: 21px;
+       }
+       .process-text p{
+           line-height: 15px;
+       }
+       .process-card1 {
+           padding: 9px 5px;
+           margin-bottom: 50px;
+       }
+       .process-card2 {
+           padding: 10px 5px;
+           margin-bottom: 20px;
+       }
+       .process-card2 p {
+           font-size: 20px;
+       }
+       .process-card1 p {
+           font-size: 20px;
+           font-weight: 500;
+           line-height: 29px;
+           padding-top: 30px;
+       }
+       .process-btn {
+           padding-top: 10px;
+           text-align: center;
+       }
+       .process-card3 p {
+           font-size: 20px;
+           font-weight: 500;
+           line-height: 18px;
+       }
+       /* process end */
+   
+        /* work start */
+        #work {
+           padding: 0px 0 100px 0;
+       }
+       .work_btn a {
+           font-size: 15px;
+           font-weight: 600;
+           padding: 42px 4px;
+       }
+       .subhead-p{
+           text-align: center;
+       }
+       .work-img{
+           width: 50%;
+           display: block; 
+           margin-left: auto; 
+           margin-right: auto; 
+       }
+       /* work end */
+   
+       /* pricing start*/
+       #pricing {
+           padding: 0 0 100px 0;
+       }
+       .container{
+           overflow: auto;
+       }
+       .pricing-head h4 {
+           color: black !important;
+           font-family: "Poppins", sans-serif;
+           font-size: 18px;
+           font-weight: 600;
+           line-height: 44px;
+           text-transform: capitalize;
+           text-align: center;
+           margin-top: 24px;
+       }
+       .pricing-head span {
+           font-size: 14px;
+           font-weight: 600;
+           line-height: 0px;
+       }
+       .t-data .pricing-btn1 a {
+           color: white !important;
+           font-family: "Nunito Sans", sans-serif;
+           font-size: 18px;
+           font-weight: 600;
+           line-height: 20px;
+           text-transform: capitalize;
+           padding: 10px 44px;
+           background-color: black;
+       }
+       .free-head h3 {
+           font-size: 28px;
+           font-weight: 600;
+           line-height: 40px;
+       }
+       .free-head p {
+           font-size: 12px;
+           font-weight: 300;
+           line-height: 0px;
+       }
+       .free-head input {
+           font-size: 14px;
+           font-weight: 400;
+           line-height: 20px;
+           padding: 28px 0;
+           padding-right: 33px;
+           padding-left: 18px;
+       }
+       .free-text-btn {
+           font-size: 15px;
+           font-weight: 600;
+           line-height: 18px;
+           padding: 31px 31px;
+       }
+       /* pricing end */
+   
+       /* footer start */
+       .footer1 img{
+           display: block; 
+           margin-left: auto; 
+           margin-right: auto; 
+          }
+          .footer1 h6 {
+              color: black !important;
+              font-family: "Nunito Sans", sans-serif;
+              font-size: 18px;
+              font-weight: 400;
+              line-height: 32px;
+              padding-top: 44px;
+              text-align: center;
+          }
+          .footer1{
+              padding-bottom: 50px;
+          }
+          .footer-last p , span{
+              font-size: 10px;
+          }
+          /* footer end */
+}
+/* xl end */
+
+/* xxl start */
+
+@media (min-width:1400px) and (max-width:1599px){
+   
+      /* nav part start  */
+      .menu_bg ul{
+       text-align: center;
+   }
+   .menu_bg ul li{
+       padding: 10px 0;
+   }
+   .con{
+       text-align: center;
+   }
+   .navbar-toggler{
+       border: 1px solid #fff;
+   }
+   .navbar-toggler i{
+       color: white !important ;
+   }
+   .navbar-toggler:focus {
+       text-decoration: none;
+       outline: 0;
+       box-shadow: 0 0 0 transparent !important;
+   }
+   .nav-btn a {
+       font-size: 16px;
+       font-weight: 600;
+       line-height: 18px;
+       padding: 12px 13px;
+       background-color: transparent;
+       border: 2px solid white;
+       text-align: center;
+   }
+   
+   /* nav part end  */
+
+    /* banner start */
+    .banner-text h1 {
+       width: 100%;
+       font-size: 30px;
+       line-height: 40px;
+   }
+   .banner-text p {
+       font-size: 16px;
+       width: 100%;
+       line-height: 25px;
+   }
+   .banner-text input {
+       width: 328px;
+       height: 65px;
+       font-size: 14px;
+       padding: 41px 34px;
+   }
+   .banner-text-btn {
+       width: 167px;
+       height: 92px;
+       margin-top: -10px;
+       padding: 31px 0;
+       font-size: 15px;
+   }
+   #banner {
+       padding: 150px 0 0px 0;
+   }
+   .banner_pic {
+       bottom: -32px;
+   }
+   .banner-logo-pic{
+       padding: 10px 14px;
+   }
+   /* banner end */
+
+   /* provide start */
+   #provide {
+       margin-top: 40px;
+   }
+   .provide-text h3 {
+       font-size: 31px;
+       font-weight: 600;
+       line-height: 45px;
+       padding-bottom: 21px;
+   }
+   .provide-left{
+       padding-bottom: 100px;
+   }
+   .provide-left p {
+       font-size: 17px;
+       font-weight: 400;
+       line-height: 30px;
+       padding-bottom: 148px;
+       text-align: center;
+   }
+   .provide-right {
+       padding-left: 44px;
+   }
+   .provide-card1{
+       margin: 10px 30px 0px 10px;
+   }
+   .provide-card2{
+       margin: 10px 30px 0px 10px;
+   }
+   .card-right p {
+       font-size: 14px;
+       font-weight: 400;
+       line-height: 18px;
+   }
+   .card-right h3 {
+       font-size: 22px;
+       font-weight: 600;
+       line-height: 26px;
+   }
+   /* provide end */
+
+   /* traffic start */
+   #traffic {
+       padding: 130px 0;
+   }
+   .subhead{
+       text-align: center;
+       font-size: 24px;
+       padding-bottom: 0px;
+   }
+   .head{
+       font-size: 34px;
+       font-weight: 600;
+       line-height: 68px;
+       text-transform: capitalize;
+       padding-bottom: 2px;
+       text-align: center;
+   }
+   .body{
+       text-align: center;
+       line-height: 26px;
+       font-size: 17px;
+       padding-bottom: 50px;
+   }
+   .traffic-text{
+       text-align: center;
+   }
+   /* traffic end */
+
+   /* process start */
+   #process {
+       padding-bottom: 0px;
+   }
+   .process-text h3 {
+       font-size: 31px;
+       font-weight: 600;
+       line-height: 45px;
+       padding-bottom: 21px;
+   }
+   .process-text p{
+       line-height: 15px;
+   }
+   .process-card1 {
+       padding: 9px 5px;
+       margin-bottom: 50px;
+   }
+   .process-card2 {
+       padding: 10px 5px;
+       margin-bottom: 20px;
+   }
+   .process-card2 p {
+       font-size: 20px;
+   }
+   .process-card1 p {
+       font-size: 20px;
+       font-weight: 500;
+       line-height: 29px;
+       padding-top: 30px;
+   }
+   .process-btn {
+       padding-top: 10px;
+       text-align: center;
+   }
+   .process-card3 p {
+       font-size: 20px;
+       font-weight: 500;
+       line-height: 18px;
+   }
+   /* process end */
+
+    /* work start */
+    #work {
+       padding: 0px 0 100px 0;
+   }
+   .work_btn a {
+       font-size: 15px;
+       font-weight: 600;
+       padding: 42px 4px;
+   }
+   .subhead-p{
+       text-align: center;
+   }
+   .work-img{
+       width: 50%;
+       display: block; 
+       margin-left: auto; 
+       margin-right: auto; 
+   }
+   /* work end */
+
+   /* pricing start*/
+   #pricing {
+       padding: 0 0 100px 0;
+   }
+   .container{
+       overflow: auto;
+   }
+   .pricing-head h4 {
+       color: black !important;
+       font-family: "Poppins", sans-serif;
+       font-size: 18px;
+       font-weight: 600;
+       line-height: 44px;
+       text-transform: capitalize;
+       text-align: center;
+       margin-top: 24px;
+   }
+   .pricing-head span {
+       font-size: 14px;
+       font-weight: 600;
+       line-height: 0px;
+   }
+   .t-data .pricing-btn1 a {
+       color: white !important;
+       font-family: "Nunito Sans", sans-serif;
+       font-size: 18px;
+       font-weight: 600;
+       line-height: 20px;
+       text-transform: capitalize;
+       padding: 10px 44px;
+       background-color: black;
+   }
+   .free-head h3 {
+       font-size: 28px;
+       font-weight: 600;
+       line-height: 40px;
+   }
+   .free-head p {
+       font-size: 12px;
+       font-weight: 300;
+       line-height: 0px;
+   }
+   .free-head input {
+       font-size: 14px;
+       font-weight: 400;
+       line-height: 20px;
+       padding: 28px 0;
+       padding-right: 33px;
+       padding-left: 18px;
+   }
+   .free-text-btn {
+       font-size: 15px;
+       font-weight: 600;
+       line-height: 18px;
+       padding: 31px 31px;
+   }
+   /* pricing end */
+
+   /* footer start */
+   .footer1 img{
+       display: block; 
+       margin-left: auto; 
+       margin-right: auto; 
+      }
+      .footer1 h6 {
+          color: black !important;
+          font-family: "Nunito Sans", sans-serif;
+          font-size: 18px;
+          font-weight: 400;
+          line-height: 32px;
+          padding-top: 44px;
+          text-align: center;
+      }
+      .footer1{
+          padding-bottom: 50px;
+      }
+      .footer-last p , span{
+          font-size: 10px;
+      }
+      /* footer end */
+}
+/* xxl end */
